@@ -1,5 +1,9 @@
 ### Всем привет, меня зовут Дмитрий! 👋
- :running:
+ - :mortar_board: Инженер-электроник
+ - :technologist: Front-end developer
+ - :speech_balloon: Иногда полезно отложить проблему до утра
+ 
+ :running: :snowboarder: :weight_lifting:
 
 <!--
 **drozdovdn/drozdovdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
