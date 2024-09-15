@@ -6,7 +6,9 @@
 
 ---
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drozdovdn&show_icons=true&theme=radical) | ![](https://leetcard.jacoblin.cool/drozdovdn?theme=dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drozdovdn&layout=compact&theme=radical)   | ![](https://leetcard.jacoblin.cool/drozdovdn?theme=dark) |
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 
 
+
+[//]: <> "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drozdovdn&show_icons=true&theme=radical)"
