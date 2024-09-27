@@ -8,8 +8,8 @@
 
 ---
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drozdovdn&layout=compact&theme=radical)   | ![](https://leetcard.jacoblin.cool/drozdovdn?theme=dark) |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| ![](https://leetcard.jacoblin.cool/drozdovdn?theme=dark&ext=activity)    | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drozdovdn&layout=compact&theme=radical)  |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 
 
