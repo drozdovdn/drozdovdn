@@ -14,3 +14,7 @@
 
 
 [//]: <> "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drozdovdn&show_icons=true&theme=radical)"
+
+---
+ #### P.S.: Всегда пишите код так, будто сопровождать его будет склонный к насилию психопат, который знает, где вы живёте.
+---
